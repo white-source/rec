@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01e7fb21-c2f4-477f-b030-5cd43b529463" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d1rbitXg5ufo74R8zfKCdp3tQy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="personal_recommendation" is-module-sdk="true">
+        <envs>
+          <env key="PATH" value="/usr/local/opt/protobuf@3.6/bin:/Users/admin/.nvm/versions/node/v10.9.0/bin:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/bin:/usr/local/Cellar/yarn/1.22.4//bin:/Users/admin/Software/maven//bin:/anaconda3/bin:/anaconda3/condabin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Users/admin/mygo/bin:/usr/local/Cellar/go/1.12.6/libexec/bin:/usr/local/mysql/bin:/Users/admin/Software/spark-2.4.5-bin-hadoop2.7/bin" />
+        </envs>
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="personal_recommendation" />
+        <option name="myEnvs">
+          <map>
+            <entry key="PATH" value="/usr/local/opt/protobuf@3.6/bin:/Users/admin/.nvm/versions/node/v10.9.0/bin:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/bin:/usr/local/Cellar/yarn/1.22.4//bin:/Users/admin/Software/maven//bin:/anaconda3/bin:/anaconda3/condabin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Users/admin/mygo/bin:/usr/local/Cellar/go/1.12.6/libexec/bin:/usr/local/mysql/bin:/Users/admin/Software/spark-2.4.5-bin-hadoop2.7/bin" />
+          </map>
+        </option>
+      </console-settings>
+    </option>
+    <option name="myShowDebugConsoleByDefault" value="true" />
+    <option name="myUseExistingConsole" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.Dijkstra">
+    <configuration name="Dijkstra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="personal_recommendation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BaseDataStruct" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BaseDataStruct/Dijkstra.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="personal_recommendation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WD/production" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WD/production/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Dijkstra" />
+        <item itemvalue="Python.train" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01e7fb21-c2f4-477f-b030-5cd43b529463" name="Default Changelist" comment="" />
+      <created>1591603513552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591603513552</updated>
+      <workItem from="1591603517955" duration="2206000" />
+      <workItem from="1591606129063" duration="1509000" />
+      <workItem from="1598879987551" duration="1789000" />
+      <workItem from="1598960626583" duration="3437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1578" height="466" key="DebuggerActiveHint" timestamp="1598964038866">
+      <screen x="-167" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1578" height="466" key="DebuggerActiveHint/0.0.1440.900/-167.-1080.1920.1080@-167.-1080.1920.1080" timestamp="1598964038866" />
+    <state x="548" y="-768" key="EnvironmentVariablesDialog" timestamp="1591606110351">
+      <screen x="-167" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="548" y="-768" key="EnvironmentVariablesDialog/0.0.1440.900/-167.-1080.1920.1080@-167.-1080.1920.1080" timestamp="1591606110351" />
+    <state width="1878" height="375" key="GridCell.Tab.0.bottom" timestamp="1598970561841">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1878" height="321" key="GridCell.Tab.0.bottom/0.0.1440.900/-167.-1080.1920.1080@-167.-1080.1920.1080" timestamp="1598964179290" />
+    <state width="1878" height="375" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1598970561841" />
+    <state width="1878" height="375" key="GridCell.Tab.0.center" timestamp="1598970561824">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1878" height="321" key="GridCell.Tab.0.center/0.0.1440.900/-167.-1080.1920.1080@-167.-1080.1920.1080" timestamp="1598964179288" />
+    <state width="1878" height="375" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1598970561824" />
+    <state width="1878" height="375" key="GridCell.Tab.0.left" timestamp="1598970561821">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1878" height="321" key="GridCell.Tab.0.left/0.0.1440.900/-167.-1080.1920.1080@-167.-1080.1920.1080" timestamp="1598964179287" />
+    <state width="1878" height="375" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1598970561821" />
+    <state width="1878" height="375" key="GridCell.Tab.0.right" timestamp="1598970561840">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1878" height="321" key="GridCell.Tab.0.right/0.0.1440.900/-167.-1080.1920.1080@-167.-1080.1920.1080" timestamp="1598964179289" />
+    <state width="1878" height="375" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1598970561840" />
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom" timestamp="1598970561843">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom/0.0.1440.900/-167.-1080.1920.1080@-167.-1080.1920.1080" timestamp="1598964061219" />
+    <state width="1878" height="375" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1598970561843" />
+    <state width="1878" height="375" key="GridCell.Tab.1.center" timestamp="1598970561842">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.center/0.0.1440.900/-167.-1080.1920.1080@-167.-1080.1920.1080" timestamp="1598964061216" />
+    <state width="1878" height="375" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1598970561842" />
+    <state width="1878" height="375" key="GridCell.Tab.1.left" timestamp="1598970561841">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.left/0.0.1440.900/-167.-1080.1920.1080@-167.-1080.1920.1080" timestamp="1598964061214" />
+    <state width="1878" height="375" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1598970561841" />
+    <state width="1878" height="375" key="GridCell.Tab.1.right" timestamp="1598970561843">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1878" height="375" key="GridCell.Tab.1.right/0.0.1440.900/-167.-1080.1920.1080@-167.-1080.1920.1080" timestamp="1598964061217" />
+    <state width="1878" height="375" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1598970561843" />
+    <state x="302" y="-901" key="SettingsEditor" timestamp="1591607191190">
+      <screen x="-167" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="302" y="-901" key="SettingsEditor/0.0.1440.900/-167.-1080.1920.1080@-167.-1080.1920.1080" timestamp="1591607191190" />
+    <state x="345" y="-797" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598964045860">
+      <screen x="-167" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="345" y="-797" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900/-167.-1080.1920.1080@-167.-1080.1920.1080" timestamp="1598964045860" />
+    <state x="458" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1598961251681">
+      <screen x="-167" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="458" y="-839" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-167.-1080.1920.1080@-167.-1080.1920.1080" timestamp="1598961251681" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BaseDataStruct/Dijkstra.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BaseDataStruct/Dijkstra.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="current_city.routes" language="Python" />
+        <watch expression="for city, price_info in current_city.routes:" language="Python" />
+        <watch expression="current_city.routes.items()" language="Python" />
+        <watch expression="city in visited_cities" language="Python" />
+        <watch expression="cheapest_route_from_current_city" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/personal_recommendation$train.coverage" NAME="train Coverage Results" MODIFIED="1591605643176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WD/production" />
+    <SUITE FILE_PATH="coverage/personal_recommendation$Dijkstra.coverage" NAME="Dijkstra Coverage Results" MODIFIED="1598964148651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaseDataStruct" />
+  </component>
+</project>
